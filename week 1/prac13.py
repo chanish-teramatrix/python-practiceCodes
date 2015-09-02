@@ -1,0 +1,16 @@
+#sorted() and sort()
+
+dictionary = {
+	'name' :'chanish', 
+	'age' : 21, 
+	'job': "s/w engineer"}
+
+list1 = [4,2,6,26,432,2,1,5,4]
+list2 = ['chanish','Mridul','puneet','achal','aadesh']
+
+print sorted(dictionary)
+print sorted(list1)
+print sorted(list2)
+print sorted(list2,key=str.lower)
+
+

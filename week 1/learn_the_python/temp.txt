@@ -1,0 +1,4 @@
+1. gatthering information
+2. making flowchart
+3. coding
+4. testing

@@ -1,0 +1,3 @@
+string = "Working with Teramatrix Technology private limited"
+string = string.split(" ")
+print string.title()

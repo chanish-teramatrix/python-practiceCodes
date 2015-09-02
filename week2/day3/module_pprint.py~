@@ -1,0 +1,9 @@
+from pprint import pprint
+data = [(i,{'a': 'A', 'c': 'C', 'b': 'B', 'e': 'E', 'd': 'D', 'g': 'G', 'f': 'F', 'h': 'H'}) for i in xrange(4)]
+
+print data
+pprint(data)
+
+data.append(data)
+print "id of data",id(data)
+print data

@@ -1,0 +1,5 @@
+
+this is going to be written in file
+1.name
+2.age
+3.profile
